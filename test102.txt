@@ -1,3 +1,7 @@
 Olá mundo 2
 Nova linha do codigo
+<<<<<<< HEAD
 terceira linha de codigo 2
+=======
+terceira linha de codigo -- reset
+>>>>>>> 4ad00161258a93a0e022fa5fe5bfddfab348388d
